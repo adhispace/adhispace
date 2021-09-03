@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Adhithyan
+
+[![Adhithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhispace)](https://github.com/adhispace/github-readme-stats)
+
 
 <!--
 **adhispace/adhispace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

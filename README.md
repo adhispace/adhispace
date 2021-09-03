@@ -2,6 +2,10 @@
 
 ![Adhithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhispace&show_icons=true&theme=radical)
 
+![Adhithyan Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adhispace&layout=compact&theme=radical)
+
+![Adhithyan github activity graph](https://activity-graph.herokuapp.com/graph?username=adhispace&theme=dracula)
+
 
 
 <!--

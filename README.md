@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Adhithyan
 
-[![Adhithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhispace)](https://github.com/adhispace/github-readme-stats)
+![Adhithyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=adhispace&show_icons=true&theme=radical)
+
 
 
 <!--
